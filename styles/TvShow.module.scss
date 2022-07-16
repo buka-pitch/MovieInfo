@@ -1,0 +1,31 @@
+.Container {
+    background-color: rgb(21, 2, 28);
+    color: grey;
+    &:hover {
+    }
+}
+
+.card {
+    width: 30vw;
+    margin: 20px;
+    display: flex;
+    // height: 500px;
+    align-items: center;
+    justify-content: center;
+}
+.desc {
+    color: gold;
+    display: flex;
+    align-items: center;
+    h2 {
+        background-color: rgb(8, 7, 7);
+        margin-right: 20px;
+        padding: 10px;
+        box-shadow: 1px 2px 5px grey;
+        font-family: fantasy;
+    }
+    p {
+        font-size: small;
+        margin: 0px;
+    }
+}

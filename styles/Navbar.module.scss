@@ -1,0 +1,39 @@
+.Container {
+    width: 100%;
+    height: 60px;
+    background-color: rgb(5, 5, 5);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 40px;
+    border-bottom: 5px solid gold;
+
+    .brandName {
+        display: flex;
+        cursor: pointer;
+        .first {
+            // font-size: 2em;
+            font-weight: bold;
+            color: #fff;
+            margin-right: 10px;
+        }
+        .second {
+            // font-size: 1.2em;
+            color: gold;
+        }
+    }
+
+    .menuContainer {
+        display: flex;
+        align-items: center;
+    }
+    .menuItem {
+        color: #fff;
+        margin-left: 20px;
+        font-size: 17px;
+        text-decoration: wavy;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+    }
+}

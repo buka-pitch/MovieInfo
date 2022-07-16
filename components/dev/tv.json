@@ -1,0 +1,97 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "created_by": [
+        {
+            "id": 984975,
+            "credit_id": "62d1b70d0d9f5a004f628601",
+            "name": "Václav Bedřich",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 1294894,
+            "credit_id": "62d1b72662fcd3004d1828fa",
+            "name": "Václav Čtvrtek",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [6],
+    "first_air_date": "1972-12-21",
+    "genres": [
+        {
+            "id": 10762,
+            "name": "Kids"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 206074,
+    "in_production": false,
+    "languages": ["cs", "pl", "sk"],
+    "last_air_date": "1972-12-21",
+    "last_episode_to_air": {
+        "air_date": "1972-12-21",
+        "episode_number": 1,
+        "id": 3836860,
+        "name": "Episode 1",
+        "overview": "",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 206074,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "name": "Makowa Panienka",
+    "next_episode_to_air": null,
+    "networks": [],
+    "number_of_episodes": 1,
+    "number_of_seasons": 1,
+    "origin_country": ["PL"],
+    "original_language": "pl",
+    "original_name": "Makowa Panienka",
+    "overview": "",
+    "popularity": 0,
+    "poster_path": "/qEAdiIdkWghoVDU4TPL2GGPxeKn.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "1972-12-21",
+            "episode_count": 1,
+            "id": 300907,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Czech",
+            "iso_639_1": "cs",
+            "name": "Český"
+        },
+        {
+            "english_name": "Polish",
+            "iso_639_1": "pl",
+            "name": "Polski"
+        },
+        {
+            "english_name": "Slovak",
+            "iso_639_1": "sk",
+            "name": "Slovenčina"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 0,
+    "vote_count": 0
+}
